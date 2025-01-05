@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: #9AECDB;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* input work */
+
+.reg-form{
+    background: #FEA47F;
+    width: 110%;
+    height: 50%;
+    padding: 55px;
+    border-radius: 0px 10px 10px 0px;  
+    text-align: center; 
+}
+
+.inputContainer{
+    
+}
