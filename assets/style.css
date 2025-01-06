@@ -6,10 +6,12 @@
     background: #9AECDB;
     width: 100%;
     height: 100vh;
+}
+
+.container02{
     display: flex;
-    justify-content: center;
     align-items: center;
-    flex-direction: column;
+    justify-content: center;
 }
 
 
@@ -18,7 +20,7 @@
 
 .reg-form{
     background: #FEA47F;
-    width: 80%;
+    width: 20%;
     height: 50%;
     padding: 55px;
     border-radius: 0px 10px 10px 0px; 
@@ -31,8 +33,6 @@
 .flex{
     display: flex;
     flex-direction: column;
-    
-    
 }
 .inputlabel{
     display: flex;
